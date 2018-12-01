@@ -1,4 +1,4 @@
-# sampleSunction1
+# sampleFunction1
 Serverless application for learning
 
 References
